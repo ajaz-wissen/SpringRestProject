@@ -1,0 +1,10 @@
+insert into STUDENT values(1, 90, 1, 5, 'Ajaz', 'KV');
+insert into STUDENT values(2, 80, 2, 10, 'Ahmed', 'Anthonys');
+insert into STUDENT values(3, 85, 3, 12, 'Yusuf', 'KV');
+insert into STUDENT values(4, 25, 4, 5, 'Raza', 'KV');
+insert into STUDENT values(5, 97, 5, 5, 'Meraj', 'Anthonys');
+insert into STUDENT values(6, 39, 6, 6, 'Khatoon', 'Rampus');
+insert into STUDENT values(7, 50, 7, 7, 'Afreen', 'Rampus');
+insert into STUDENT values(8, 60, 8, 6, 'Rashida', 'Rampus');
+insert into STUDENT values(9, 76, 9, 10, 'Raju', 'DeensAcademy');
+insert into STUDENT values(10, 35, 10, 9, 'Srikanth', 'DeensAcademy');
