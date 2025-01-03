@@ -1,8 +1,7 @@
 package com.ajaz.SpringRestAssignment.controllers;
 
-import com.ajaz.SpringRestAssignment.StudentService;
+import com.ajaz.SpringRestAssignment.services.StudentService;
 import com.ajaz.SpringRestAssignment.entities.Student;
-import com.ajaz.SpringRestAssignment.repositories.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

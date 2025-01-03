@@ -1,4 +1,4 @@
-package com.ajaz.SpringRestAssignment;
+package com.ajaz.SpringRestAssignment.services;
 
 import com.ajaz.SpringRestAssignment.entities.Student;
 import com.ajaz.SpringRestAssignment.repositories.StudentRepository;
